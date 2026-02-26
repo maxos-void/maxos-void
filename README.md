@@ -18,6 +18,6 @@
 
 ## 🎮 Мой игровой сервер
 ![Name](https://img.shields.io/badge/servername-mineworld-orange?style=for-the-badge)
-![Status](https://img.shields.io/badge/status-close-darkblue?style=for-the-badge)
+![Status](https://img.shields.io/badge/status-close-darkred?style=for-the-badge)
 ![Plugins](https://img.shields.io/badge/myplugins-15-green?style=for-the-badge)
 ![Domain](https://img.shields.io/badge/domain-null-red?style=for-the-badge)
