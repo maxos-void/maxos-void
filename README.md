@@ -1,2 +1,3 @@
 
-![Моя статистика GitHub](./profile/stats.svg)
+![My Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
